@@ -22,15 +22,6 @@ const HomeView = () => {
                 <Contact />
             </Main>
             <Footer />
-            {/* 
-            <Main>
-                <Intro />
-                <Skill />
-                <Site />
-                <Port />
-                <Contact />
-            </Main>
-            <Footer /> */}
         </>
     )
 }
